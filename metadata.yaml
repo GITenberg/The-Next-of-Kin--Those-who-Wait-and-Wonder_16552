@@ -1,0 +1,32 @@
+_repo: The-Next-of-Kin--Those-who-Wait-and-Wonder_16552
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McClung, Nellie L.
+    aliases:
+    - Mooney, Nellie Letitia
+    - McClung, Nellie Letitia Mooney
+    birthdate: 1873
+    deathdate: 1951
+    gutenberg_agent_id: '1470'
+    url: http://www.gutenberg.org/2009/agents/1470
+    wikipedia: http://en.wikipedia.org/wiki/Nellie_McClung
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Canada'
+- !lcsh 'World War, 1914-1918'
+title: 'The Next of Kin: Those who Wait and Wonder'
+url: http://www.gutenberg.org/ebooks/16552
